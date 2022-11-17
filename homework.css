@@ -1,0 +1,97 @@
+body
+{font-family: 'Roboto', sans-serif;}
+
+.main_div{width: 1600px;
+height: 2346px;}
+
+.head{display: flex;
+flex-direction: row;
+margin:24px 93px 25px 215px ;
+}
+
+.webstudio1{color: #2196F3;}
+
+.webstudio{color: #ffffff;}
+
+.webstudio2{color: #000000;}
+
+.h3headtex{margin: 15px 50px 20px 50px}
+
+.info1{margin-left: 0px;
+    margin-right: 50px;}
+
+.head1{display: flex;
+flex-direction: row;
+margin: 9px 204px 12px 93px;
+}
+
+.button1{background-color: #2196F3;
+color:#ffffff ;
+width:216px;
+height:50px;
+border: none;
+border-radius: 5px;}
+
+.button2{color:#2196F3;    
+background-color:#ffffff;
+width: 105px; height: 46px;
+margin-right: 50px;
+border: none;}
+
+.whu_work1{margin-left: 748px;
+margin-bottom: 50px;
+}
+
+.img1{margin: 0px 40px;}
+
+.ABOUT_TEXT{background-color:#ffffff}
+
+.text{display: flex;
+margin-left: 215px;
+width: 1170px;}
+
+.h5text{color: #757575;}
+
+.text1{margin:94px 30px ;}
+
+.biznes{background-color:#2F303A;
+color:#ffffff ;
+text-align:center;
+padding: 200px 0px 280px 0px;}
+
+.whu_work{display:flex;
+flex-direction: row;
+padding-left:215px;
+}
+
+.my_team1{background-color:#F5F4FA;
+margin-top: 90px;}
+
+.my_team{padding-left:778px;
+    padding-top:94px;
+    padding-bottom: 50px;
+}
+
+.bio{margin:0px 30px;
+    box-shadow:rgba(0, 0, 0, 0.2);
+background-color: #ffffff;
+border-radius: 7px;}
+
+.bio1{margin-left:48px}
+
+
+.team{
+display:flex;
+flex-direction:row;
+padding-left:215px;
+padding-top:1632;
+padding-bottom:94px;;}
+
+.end{background-color:#2F303A;
+display: flex;
+flex-direction: row;}
+
+.end1{
+color: #ffffff;
+margin: 0px 1124px 0px 215px;
+padding: 60px 0px 60px 0px;}
